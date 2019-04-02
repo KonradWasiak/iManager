@@ -18,7 +18,7 @@ Aplikacja dostępna jest pod adresem: [http://i-manager.ct8.pl](http://i-manager
 #### Rejestracja 
 
 #### Logowanie i Dashboard
-[enter link description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
+![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
 
 #### Personalizacja konta
 
