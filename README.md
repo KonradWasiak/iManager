@@ -16,18 +16,19 @@ Aplikacja dostępna jest pod adresem: [http://i-manager.ct8.pl](http://i-manager
 ### Działanie aplikacji i podstawowe funkcje
   
 #### Rejestracja 
-
+![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
 #### Logowanie i Dashboard
 ![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
 
 #### Personalizacja konta
-
+![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
 #### Zadania prywatne
-
+![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
 #### Notatki
-
+![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
 #### Społeczność
-
+![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
 #### Wiadomości
-
+![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
 #### Grupy i zadania grupowe
+![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
